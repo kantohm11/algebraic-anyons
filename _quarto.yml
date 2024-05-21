@@ -1,0 +1,12 @@
+project:
+  output-dir: docs
+  title: "Algebraic Aspects of Anyons and Tensor Network Representations"
+
+format:
+  html:
+    toc : false
+    theme:
+      light: flatly
+      dark: darkly
+
+
