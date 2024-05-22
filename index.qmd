@@ -3,7 +3,7 @@ title: "Algebraic Aspects of Anyons and Tensor Network Representations"
 abstract: |
     This workshop aims for brah brah.
 description: |
-    Intensive lectures by Andras Molnar and Yoshiko Ogata.
+    Intensive lectures by Andras&nbsp;Molnar (University of Vienna) and Yoshiko&nbsp;Ogata (RIMS).
 title-block-banner: true
 ---
 
@@ -26,3 +26,8 @@ title-block-banner: true
 ### Andras Molnar
 
 ### Yoshiko Ogata
+
+#### Organizers {.unnumbered .unlisted}
+Mayuko Yamashita (Kyoto U), Kantaro Ohmori (U Tokyo), Shuhei Ohyama (RIKEN iTHEMS)
+
+This workshop is supported by [JSPS KAKENHI 24K00522](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K00522/).
