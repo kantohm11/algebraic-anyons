@@ -12,7 +12,7 @@ title-block-banner: true
 - *Date*: 23rd (Tue.) July 2024 -- 26th (Fri.) July 2024
 - *Venue*: Kyoto University (Build.\ XX, room YY)
 
-## Timetable
+## Timetable (Tentative)
 
 |     July       | 23rd&nbsp;(Tue.) | 24th&nbsp;(Wed.) | 25th&nbsp;(Thu.) | 26th&nbsp;(Fri.) |
 |--------------:|-------------|-------------|-------------|-------------|
