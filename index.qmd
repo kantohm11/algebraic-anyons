@@ -16,9 +16,9 @@ title-block-banner: true
 
 |     July       | 23rd&nbsp;(Tue.) | 24th&nbsp;(Wed.) | 25th&nbsp;(Thu.) | 26th&nbsp;(Fri.) |
 |--------------:|-------------|-------------|-------------|-------------|
-| 10:00 -- 11:30 |             |             |             |             |
-| 14:00 -- 15:30 |             |             |             |             |
-| 16:00 -- 17:30 |             |             |             |             |
+| 10:00 -- 11:30 |     Ogata     |    Ogata     |     Ogata      |    Ogata    |
+| 14:00 -- 15:30 |     Molnar    |     Molnar    |     Molnar     |     Discussion    |
+| 16:00 -- 17:30 |     Molnar   |      Discussion    |      Discussion   |             |
 
 
 ## Titles and Abstracts
@@ -28,6 +28,6 @@ title-block-banner: true
 ### Yoshiko Ogata
 
 #### Organizers {.unnumbered .unlisted}
-Mayuko Yamashita (Kyoto U), Kantaro Ohmori (U Tokyo), Shuhei Ohyama (RIKEN iTHEMS)
+Mayuko Yamashita (Kyoto U), Kantaro Ohmori (U Tokyo), Shuhei Ohyama (RIKEN CEMS)
 
 This workshop is supported by [JSPS KAKENHI 24K00522](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K00522/).
