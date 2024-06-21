@@ -9,7 +9,7 @@ title-block-banner: true
 
 ## Date and Venue
 - *Date*: 23rd (Tue.) July 2024 -- 26th (Fri.) July 2024
-- *Venue*: Kyoto University (Build.\ XX, room YY)
+- *Venue*: Kyoto University
 
 ## Registration
 
