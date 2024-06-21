@@ -7,10 +7,14 @@ description: |
 title-block-banner: true
 ---
 
-
 ## Date and Venue
 - *Date*: 23rd (Tue.) July 2024 -- 26th (Fri.) July 2024
 - *Venue*: Kyoto University (Build.\ XX, room YY)
+
+## Registration
+
+Please register from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe1TcyMFgRyhpvItQd17qa7078utbpCIQbo1AOTxYzPF92fJw/viewform?usp=sf_link). <br>
+In-person attendance may be declined if the room reaches full capacity. Thank you for understanding.
 
 ## Timetable (Tentative)
 
