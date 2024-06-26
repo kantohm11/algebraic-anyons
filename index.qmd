@@ -10,6 +10,7 @@ title-block-banner: true
 ## Date and Venue
 - *Date*: 23rd (Tue.) July 2024 -- 26th (Fri.) July 2024
 - *Venue*: Kyoto University
+- (A part of letcutres might also be broadcasted online.)
 
 ## Registration
 
