@@ -1,16 +1,16 @@
 ---
-title: "Algebraic Aspects of Anyons and Tensor Network Representations"
+title: "An introduction to tensor networks: algebraic aspects"
 #abstract: |
 #    This workshop aims for brah brah.
 description: |
-    Intensive lectures by Andras&nbsp;Molnar (University of Vienna) and Yoshiko&nbsp;Ogata (RIMS).
+    Lecture series by Andras&nbsp;Molnar (University of Vienna).
 title-block-banner: true
 ---
 
 ## Date and Venue
 - *Date*: 23rd (Tue.) July 2024 -- 26th (Fri.) July 2024
 - *Venue*: Kyoto University
-- (A part of letcutres might also be broadcasted online.)
+- (Letcutres might also be broadcasted online.)
 
 ## Registration
 
@@ -22,16 +22,11 @@ In-person attendance may be declined if the room reaches full capacity. Thank yo
 
 |     July       | 23rd&nbsp;(Tue.) | 24th&nbsp;(Wed.) | 25th&nbsp;(Thu.) | 26th&nbsp;(Fri.) |
 |--------------:|-------------|-------------|-------------|-------------|
-| 10:00 -- 11:30 |     Ogata     |    Ogata     |     Ogata      |    Ogata    |
-| 14:00 -- 15:30 |     Molnar    |     Molnar    |     Molnar     |     Discussion    |
-| 16:00 -- 17:30 |     Molnar   |      Discussion    |      Discussion   |             |
+| 10:00 -- 11:30 |     Discussion     |    Discussion     |     Discussion      |    Discussion    |
+| 14:00 -- 15:30 |     Molnar    |     Molnar    |     Molnar     |     (Free Time)    |
+| 16:00 -- 17:30 |     Molnar   |      (Free Time)    |      (Free Time)   |             |
 
 
-## Titles and Abstracts
-
-### Andras Molnar
-
-### Yoshiko Ogata
 
 #### Organizers {.unnumbered .unlisted}
 Mayuko Yamashita (Kyoto U), Kantaro Ohmori (U Tokyo), Shuhei Ohyama (RIKEN CEMS)
