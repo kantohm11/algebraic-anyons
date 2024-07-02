@@ -20,11 +20,12 @@ In-person attendance may be declined if the room reaches full capacity. Thank yo
 
 ## Timetable (Tentative)
 
+
 |     July       | 23rd&nbsp;(Tue.) | 24th&nbsp;(Wed.) | 25th&nbsp;(Thu.) | 26th&nbsp;(Fri.) |
 |--------------:|-------------|-------------|-------------|-------------|
-| 10:00 -- 11:30 |     Discussion     |    Discussion     |     Discussion      |    Discussion    |
-| 14:00 -- 15:30 |     Molnar    |     Molnar    |     Molnar     |     (Free Time)    |
-| 16:00 -- 17:30 |     Molnar   |      (Free Time)    |      (Free Time)   |             |
+| 10:00 -- 11:30 |     Molnar    |     Molnar    |     Molnar     |     Molnar      |
+| 14:00 -- 15:30 |     Discussion     |     Discussion     |     Discussion      |         |
+| 16:00 -- 17:30 |     Discussion     |   (Free Time)          |    (Free Time)     |              |
 
 
 
