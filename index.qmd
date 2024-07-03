@@ -9,8 +9,8 @@ title-block-banner: true
 
 ## Date and Venue
 - *Date*: 23rd (Tue.) July 2024 -- 26th (Fri.) July 2024
-- *Venue*: Kyoto University
-- (Letcutres might also be broadcasted online.)
+- *Venue*: Kyoto University, Graduate School of Science Bldg.\ No.3 room 3-127 ([Campus map](https://www.kyoto-u.ac.jp/en/access/campus/yoshida/map6r-n))
+- (Lectures might also be broadcasted online.)
 
 ## Registration
 
